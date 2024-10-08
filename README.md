@@ -11,4 +11,4 @@ I'm currently developing RCS Trucking, a TruckersMP Virtual Trucking Company (VT
 ---
 [![](https://visitcount.itsvg.in/api?id=zr1z&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1143321328405971064)](https://discord.com/users/1143321328405971064)
