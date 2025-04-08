@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently developing RCS Trucking, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts.
-So far, i have created the [Website](https://rcsvtc.co.uk/) and the Discord bot which can be found within our server.
+I'm the CEO and developer of RCS Trucking, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts. I have created our [website](https://rcsvtc.co.uk/) and developed a Discord bot for our server. Additionally, I also work on various coding projects on the side.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -15,11 +14,7 @@ So far, i have created the [Website](https://rcsvtc.co.uk/) and the Discord bot 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zr1z&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=zr1z&theme=onedark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=zr1z&icon=0&color=0)](https://visitcount.itsvg.in)
-
+# Discord Status:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1143321328405971064?borderRadius=8px&idleMessage=&theme=dark&bg=111)](https://discord.com/users/1143321328405971064)
