@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently developing RCS Trucking, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts.
-So far, i have created the [Website](https://rcstruckingvtc.co.uk/) and the Discord bot which can be found within our server.
+So far, i have created the [Website](https://rcsvtc.co.uk/) and the Discord bot which can be found within our server.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
