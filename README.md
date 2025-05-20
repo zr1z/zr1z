@@ -22,7 +22,7 @@ I'm the CEO and developer of <a href="https://rcsvtc.co.uk/" target="_blank">RCS
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="28"/>
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua" height="28"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vite,react" height="28"/>
