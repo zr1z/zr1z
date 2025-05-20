@@ -1,20 +1,58 @@
-# 💫 About Me:
-I'm the CEO and developer of RCS Trucking, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts. I have created our [website](https://rcsvtc.co.uk/) and developed a Discord bot for our server. Additionally, I also work on various coding projects on the side.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=500&color=AAAAAA&background=111111FF&center=true&vCenter=true&width=1000&lines=zr1z+%7C+Developer+%26+VTC+CEO;Read+below+for+more+information" alt="zr1z animated banner" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css-4169E1.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=zr1z&theme=onedark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 💫 About Me
 
-# Discord Status:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1143321328405971064?borderRadius=8px&idleMessage=&theme=dark&bg=111)](https://discord.com/users/1143321328405971064)
+I'm the CEO and developer of <a href="https://rcsvtc.co.uk/" target="_blank">RCS Trucking</a>, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts. I have created our website and developed a Discord bot for our server. Additionally, I work on various coding projects on the side.
+
+---
+
+## 💻 Tech Stack
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center"><b>Frameworks</b></td>
+      <td align="center"><b>Databases</b></td>
+      <td align="center"><b>Other</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="28"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vite,react" height="28"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="28"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,vercel" height="28"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" height="170" style="margin:10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zr1z&theme=onedark&hide_border=false" height="170" style="margin:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zr1z&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="170" style="margin:10px;" />
+</p>
+
+---
+
+## 🔗 Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/1143321328405971064" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1143321328405971064?borderRadius=8px&idleMessage=&theme=dark&bg=111" alt="Discord Presence"/>
+  </a>
+</p>
