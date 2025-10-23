@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=500&color=AAAAAA&background=111111FF&center=true&vCenter=true&width=1000&lines=zr1z+%7C+Developer+%26+VTC+CEO;Read+below+for+more+information" alt="zr1z animated banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=500&color=AAAAAA&background=111111FF&center=true&vCenter=true&width=1000&lines=zr1z+%7C+Self-Taught%20Developer+;Read+below+for+more+information" alt="zr1z animated banner" />
 </p>
 
 ---
