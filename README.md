@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I'm the CEO and developer of <a href="https://rcsvtc.co.uk/" target="_blank">RCS Trucking</a>, a TruckersMP Virtual Trucking Company (VTC) dedicated to providing a realistic and engaging experience for all trucking enthusiasts. I have created our website and developed a Discord bot for our server. Additionally, I work on various coding projects on the side.
+Hi, I'm zr1z and I'm 17 years old from the UK. I'm a self-taught developer and I am always trying to learn new things. I mainly focus on Web & Discord.js projects as this is what I enjoy. I listen to music 24/7 and play games in my spare time. That's pretty much it.
 
 ---
 
