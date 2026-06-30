@@ -51,11 +51,14 @@ I mainly build **Web** and **Discord.js** projects, always looking to learn some
 
 ## GitHub Statistics
 
-## GitHub Statistics
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zr1z&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zr1z&theme=github_dark" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zr1z&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zr1z&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zr1z&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zr1z&theme=github_dark&utcOffset=1" />
 </p>
 
 ---
