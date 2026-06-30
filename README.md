@@ -52,8 +52,8 @@ I mainly build **Web** and **Discord.js** projects, always looking to learn some
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zr1z&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zr1z&theme=onedark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zr1z&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=zr1z&theme=onedark&hide_border=true" />
 </p>
 
 <p align="center">
