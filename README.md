@@ -52,12 +52,12 @@ I mainly build **Web** and **Discord.js** projects, always looking to learn some
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zr1z&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=zr1z&theme=onedark&hide_border=true" />
+  <img src="https://ghstats.dev/api/card?username=zr1z&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zr1z&layout=compact&theme=onedark&hide_border=true" />
+  <img width="49%" src="https://ghstats.dev/api/languages?username=zr1z&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zr1z&theme=github_dark&utcOffset=1" />
 </p>
 
 <p align="center">
